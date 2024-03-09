@@ -1,12 +1,11 @@
 ### Oii! Sou a Caroline de Jesus :)
 
 - Atualmente fazendo graduação em Ciência da Computação 💻
-- Entre em contato comigo pelo email: caroline.fjscc@gmail.com 📧
 - Pronouns: ela/dela 👯‍♀️
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinejesus&show_icons=true&theme=catppuccin_mocha"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinejesus&layout=compact&langs_count=16&theme=catppuccin_mocha"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinejesus&show_icons=true&theme=radical"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinejesus&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style=display: inline_block"><br>
