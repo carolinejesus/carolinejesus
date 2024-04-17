@@ -1,4 +1,4 @@
-### Oii! Sou a Caroline de Jesus :)
+### Oii! Sou a Carol :)
 
 - Atualmente fazendo graduação em Ciência da Computação 💻
 - Pronouns: ela/dela 👯‍♀️
@@ -9,10 +9,10 @@
 </div>
 
 <div style=display: inline_block"><br>
+  <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />  
   <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
   <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"/>
   <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-  <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />  
   <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>    
 </div>
 
