@@ -1,15 +1,17 @@
 ### Oii! Sou a Carol :)
 
 - Atualmente fazendo graduação em Ciência da Computação 💻
-- Pronouns: ela/dela 👯‍♀️
+- Estágiária da CTIC - IFSC 🛠️🌐
+- Pronomes: ela/dela 👯‍♀️
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinejesus&show_icons=true&theme=radical"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinejesus&layout=compact&langs_count=16&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinejesus&show_icons=true&theme=catppuccin_mocha"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinejesus&layout=compact&langs_count=16&theme=catppuccin_mocha"/>
 </div>
 
 <div style=display: inline_block"><br>
-  <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />  
+  <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" />
   <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"/>
   <img align="center" height="30" width"40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
