@@ -5,8 +5,8 @@
 - Pronomes: ela/dela 👯‍♀️
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinejesus&show_icons=true&theme=catppuccin_mocha"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinejesus&layout=compact&langs_count=16&theme=catppuccin_mocha"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinejesus&show_icons=true&theme=codeSTACKr"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinejesus&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
 
 <div style=display: inline_block"><br>
