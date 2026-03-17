@@ -1,7 +1,7 @@
 ### Oii! Sou a Carol :)
 
 - Atualmente fazendo graduação em Ciência da Computação 💻
-- Estágiária da CTIC - IFSC 🛠️🌐
+- Estágiária do Time de Consulting - NDD Tech 🌐
 - Pronomes: ela/dela 👯‍♀️
 
 <div>
