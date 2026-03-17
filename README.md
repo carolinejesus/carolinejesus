@@ -2,6 +2,7 @@
 
 - Atualmente fazendo graduação em Ciência da Computação 💻
 - Estágiária do Time de Consulting - NDD Tech 🌐
+- Bolsista e pesquisadora 📚
 - Pronomes: ela/dela 👯‍♀️
 
 <div>
